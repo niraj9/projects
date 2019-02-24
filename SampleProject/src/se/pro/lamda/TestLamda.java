@@ -11,5 +11,9 @@ public class TestLamda {
 		System.out.println("Test Lamda....");
 
 	}
+	
+	public void get(){
+		System.out.println("Test Lamda....");
+	}
 
 }
