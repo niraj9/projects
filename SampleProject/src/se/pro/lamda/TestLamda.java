@@ -6,9 +6,6 @@ public class TestLamda {
 		
 		
 		System.out.println("Test Lamda....");
-		System.out.println("Test Lamda....");
-		System.out.println("Test Lamda....");
-		System.out.println("Test Lamda....");
 
 	}
 	
@@ -17,3 +14,4 @@ public class TestLamda {
 	}
 
 }
+
